@@ -9,7 +9,7 @@
 <h2>Egbule Solomon's profile page</h2>
   </header>
            <nav>
-            <section id ="Newsletter">
+            <section id ="menu">
                 <a href="#">About Me</a>
                 <a href="#">Hobbies</a>
                <a href="#">Contact</a>
@@ -27,13 +27,14 @@ My name is Egbule Solomon, 3MTT cohort 3 fellow, I'm glad to be part of the sele
    <li>Reading And watching movies</li>
    <li>Travelling and learning peoples cultures</li>
    </ol>
-   <footer>
+   
        <h3>For more information you can reach me via my email and tik talk</h3>
+<footer>
+          
+           <p>soloegbule@outlook.com</p>
+           <p>@eso4peace</p>
 </footer>
-           <ol type ="i">
-           <li>soloegbule@outlook.com</li>
-           <li>@eso4peace</li>
-       </ol>
+       
    
 </body>
 </html># My-project-
