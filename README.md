@@ -32,7 +32,7 @@ My name is Egbule Solomon, 3MTT cohort 3 fellow,origin of Imo State but I based 
    </p>
 </section>
    <ol type ="a">
-   <p>My interest and hobbies</p>
+   <h3>My interest and hobbies</h3>
    <li>Playing table tennis</li>
    <li>Plaaying musical instrument especially the bass guitar</li>
    <li>Reading And watching movies</li>
