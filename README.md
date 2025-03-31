@@ -25,11 +25,10 @@
        
    <section id="main">
       <div class="container">
-        <article id="main-col">
-          <h2 class="Bio Section"</h2>
-          <p>
+         <p> "Bio Section"</p>
 My name is Egbule Solomon, 3MTT cohort 3 fellow,origin of Imo State but I based on benin, i'm glad to be amongst of the student selected for this phase. This training is going to go along way in reshaping my carrier, all thanks to the 3MTT Team for making this a reality and i promise to utilize this opportunity, once again i say thank you great Teams.
    </p>
+</di>
 </section>
    <ol type ="a">
    <h3>My interest and hobbies</h3>
