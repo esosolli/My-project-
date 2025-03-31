@@ -5,8 +5,25 @@
     <title>My profile page</title>
 </head>
 <body>
-     <header>
-<h2>Egbule Solomon's profile page</h2>
+     
+<header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">Acme</span> Web Design</h1>
+        </div>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li class="current"><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+<header>
+<h2>Profile page</h2>
            <nav>
             <section id ="menu">
                <li> <a href="#">About Me</a></li>
