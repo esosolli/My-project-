@@ -7,7 +7,7 @@
   <body>
     <header>
       <div class="container">
-        <div id="branding">
+        <div id="Practice">
           <h1>My profile Page </h1>
         </div>
         <nav>
