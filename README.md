@@ -9,7 +9,7 @@
 <header>
       <div class="container">
         <div id="Practice">
-          <h1> My Profile page </h1>
+          <h2> My Profile page </h2>
         </div>
         <nav>
           <ul>
@@ -32,7 +32,7 @@ My name is Egbule Solomon, 3MTT cohort 3 fellow,origin of Imo State but I based 
    </p>
 </section>
    <ol type ="a">
-   <h4>My interest and hobbies</h4>
+   <h2>My interest and hobbies</h2>
    <li>Playing table tennis</li>
    <li>Plaaying musical instrument especially the bass guitar</li>
    <li>Reading And watching movies</li>
