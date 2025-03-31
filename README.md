@@ -12,7 +12,7 @@
           <h2> My Profile page </h2>
         </div>
         <nav>
-          <ul>
+          <ul type=0>
             <li><a href="#">About me</a></li>
             <li class="current"><a       href="#">Hobbies</a></li>
             <li><a href="#">Contact</a></li>
