@@ -1,25 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Working on my Profile page</title>
-</head>
-<body>
-     
-<header>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My Profile Page</title>
+  </head>
+  <body>
+    <header>
       <div class="container">
-        <div id="Practice">
-          <h2> My Profile page </h2>
+        <div id="branding">
+          <h1>My profile Page </h1>
         </div>
         <nav>
           <ul>
-            <li><a href="#">About me</a></li>
-            <li class="current"><a       href="#">Hobbies</a></li>
+            <li><a href="#">About Me</a></li>
+            <li><a href="#">Hobbies</a></li>
             <li><a href="#">Contact</a></li>
           </ul>
         </nav>
       </div>
     </header>
+
      <p>
        <img src="Solomon.jpeg" alt="this is my picture" height ="200px"</p>
        
