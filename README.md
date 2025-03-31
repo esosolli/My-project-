@@ -12,11 +12,11 @@
           <h2> My Profile page </h2>
         </div>
         <nav>
-          <ul type=0>
+          <ol type ="0">
             <li><a href="#">About me</a></li>
             <li class="current"><a       href="#">Hobbies</a></li>
             <li><a href="#">Contact</a></li>
-          </ul>
+          </ol>
         </nav>
       </div>
     </header>
@@ -37,6 +37,7 @@ My name is Egbule Solomon, 3MTT cohort 3 fellow,origin of Imo State but I based 
    <li>Plaaying musical instrument especially the bass guitar</li>
    <li>Reading And watching movies</li>
    <li>Travelling and learning peoples cultures</li> <br>
+</ol>
 
 <footer>
       <p>soloegbule@outlook.com; @egbulesolomon; eso4peace</p>
