@@ -16,9 +16,9 @@
            </section>
        </nav>   
    
-   <p>
        <img src="Solomon.jpeg" alt="this is my picture" height ="200">
-       My name is Egbule Solomon, 3MTT cohort 3 fellow, I'm glad to be part of the selected student. This training is going to go along way in reshaping my carrier, all thanks to the 3MTT Team for making this a reality and i promise to utilize this opportunity, once again i say thank you great Teams.
+       <p> 
+My name is Egbule Solomon, 3MTT cohort 3 fellow, I'm glad to be part of the selected student. This training is going to go along way in reshaping my carrier, all thanks to the 3MTT Team for making this a reality and i promise to utilize this opportunity, once again i say thank you great Teams.
    </p>
    <ol type ="a">
    <h4>Below are my interest and hobbies</h4>
@@ -28,12 +28,12 @@
    <li>Travelling and learning peoples cultures</li>
    </ol>
    <footer>
-       <p>
-           For more information you can reach me via my email and tik talk</p>
+       <h3>For more information you can reach me via my email and tik talk</h3>
+</footer>
            <ol type ="i">
            <li>soloegbule@outlook.com</li>
            <li>@eso4peace</li>
        </ol>
-   </footer>
+   
 </body>
 </html># My-project-
