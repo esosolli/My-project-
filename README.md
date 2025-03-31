@@ -20,9 +20,8 @@
         </nav>
       </div>
     </header>
-
-
-       <img src=" href="Solomon.jpeg">"height ="100 px" alt="this is my picture"><br>
+     <p>
+       <img src="Solomon.jpeg" alt="this is my picture" height ="200px"</p>
        
    <section id="main">
       <div class="container">
