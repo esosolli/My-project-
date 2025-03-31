@@ -21,7 +21,9 @@
     </header>
 
      <p>
+      <p>
        <img src="Solomon.jpeg" alt="this is my picture" height ="200px"</p>
+       <p>
        
    <section id="main">
       <div class="container">
