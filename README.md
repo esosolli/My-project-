@@ -22,7 +22,7 @@
     </header>
 
 
-       <img src="Solomon.png"height ="100 px" alt="this is my picture"><br>
+       <img src=" href="Solomon.jpeg">"height ="100 px" alt="this is my picture"><br>
        
    <section id="main">
       <div class="container">
