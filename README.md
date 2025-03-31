@@ -13,7 +13,7 @@
         </div>
         <nav>
           <ul>
-            <li><a href="#">About</a></li>
+            <li><a href="#">About me</a></li>
             <li class="current"><a       href="#">Hobbies</a></li>
             <li><a href="#">Contact</a></li>
           </ul>
@@ -22,17 +22,7 @@
     </header>
 
 
-<header>
-<h2>Profile page</h2>
-           <nav>
-            <section id ="menu">
-               <li> <a href="#">About Me</a></li>
-                <li><a href="#">Hobbies</a></li>
-              <li> <a href="#">Contact</a></li>
-           </section>
-       </nav>   
-   </header>
-       <img src="Solomon.jpeg"height ="200 px" alt="this is my picture" >
+       <img src="Solomon.jpeg"height ="200 px" alt="this is my picture" ><br>
        <p> 
 My name is Egbule Solomon, 3MTT cohort 3 fellow,origin of Imo State but I based on benin, i'm glad to be amongst of the student selected for this phase. This training is going to go along way in reshaping my carrier, all thanks to the 3MTT Team for making this a reality and i promise to utilize this opportunity, once again i say thank you great Teams.
    </p>
