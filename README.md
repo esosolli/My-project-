@@ -22,8 +22,8 @@ My name is Egbule Solomon, 3MTT cohort 3 fellow,origin of Imo State but I based 
    </p>
    <ol type ="a">
    <h4>Below are my interest and hobbies</h4>
-   <li>playing table tennis</li>
-   <li>plaaying musical instrument especially the bass guitar</li>
+   <li>Playing table tennis</li>
+   <li>Plaaying musical instrument especially the bass guitar</li>
    <li>Reading And watching movies</li>
    <li>Travelling and learning peoples cultures</li>
 <footer>
@@ -31,9 +31,9 @@ My name is Egbule Solomon, 3MTT cohort 3 fellow,origin of Imo State but I based 
      <h3> For more information, contact me on</h3>
 </p>
 </footer>
-<ul 1>
+<ul type = "1">
            <li>soloegbule@outlook.com</li>
-           <li>@eso4peace on Til talk</li>
+           <li>@eso4peace on Tik Talk</li>
 <li> @egbulesolomon on Instagram</li>
 <li> @EgbuleSolo42888 on X</li>
 </ul>
