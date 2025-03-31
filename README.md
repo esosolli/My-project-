@@ -10,9 +10,9 @@
   </header>
            <nav>
             <section id ="menu">
-                <a href="#">About Me</a>
-                <a href="#">Hobbies</a>
-               <a href="#">Contact</a>
+               <li> <a href="#">About Me</a></li>
+                <li><a href="#">Hobbies</a></li>
+              <li> <a href="#">Contact</a></li>
            </section>
        </nav>   
    
@@ -26,12 +26,10 @@ My name is Egbule Solomon, 3MTT cohort 3 fellow, I'm glad to be part of the sele
    <li>plaaying musical instrument especially the bass guitar</li>
    <li>Reading And watching movies</li>
    <li>Travelling and learning peoples cultures</li>
-   </ol>
-   
-        For more information you can reach me via my email and tik talk
-<footer> 
+<footer>
+      For more information you can reach me via my email and tik talk
+</footer>
            <li>soloegbule@outlook.com</li>
            <li>@eso4peace</li>
-</footer>
 </body>
-</html># My-project-
+</html>
