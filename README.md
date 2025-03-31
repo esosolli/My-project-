@@ -27,9 +27,13 @@ My name is Egbule Solomon, 3MTT cohort 3 fellow, I'm glad to be part of the sele
    <li>Reading And watching movies</li>
    <li>Travelling and learning peoples cultures</li>
 <footer>
+<p>
       For more information you can reach me via my email and tik talk
+</p>
 </footer>
+<ul I>
            <li>soloegbule@outlook.com</li>
            <li>@eso4peace</li>
+</ul>
 </body>
 </html>
