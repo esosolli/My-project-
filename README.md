@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="author" content="Brad Traversy">
-    <title>Profile Page| About</title>
+    <title>Working on my Profile page</title>
 </head>
 <body>
      
