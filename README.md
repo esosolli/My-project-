@@ -18,7 +18,7 @@
    
        <img src="Solomon.jpeg"height ="200 px" alt="this is my picture" >
        <p> 
-My name is Egbule Solomon, 3MTT cohort 3 fellow, I'm glad to be part of the selected student. This training is going to go along way in reshaping my carrier, all thanks to the 3MTT Team for making this a reality and i promise to utilize this opportunity, once again i say thank you great Teams.
+My name is Egbule Solomon, 3MTT cohort 3 fellow,origin of Imo State but I based on benin, i'm glad to be amongst of the student selected for this phase. This training is going to go along way in reshaping my carrier, all thanks to the 3MTT Team for making this a reality and i promise to utilize this opportunity, once again i say thank you great Teams.
    </p>
    <ol type ="a">
    <h4>Below are my interest and hobbies</h4>
@@ -28,12 +28,14 @@ My name is Egbule Solomon, 3MTT cohort 3 fellow, I'm glad to be part of the sele
    <li>Travelling and learning peoples cultures</li>
 <footer>
 <p>
-     <h3> For more information you can reach me via my email and tik talk</h3>
+     <h3> For more information, contact me on</h3>
 </p>
 </footer>
-<ul I>
+<ul 1>
            <li>soloegbule@outlook.com</li>
-           <li>@eso4peace</li>
+           <li>@eso4peace on Til talk</li>
+<li> @egbulesolomon on Instagram</li>
+<li> @EgbuleSolo42888 on X</li>
 </ul>
 </body>
 </html>
