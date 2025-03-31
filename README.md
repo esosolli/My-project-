@@ -24,13 +24,11 @@ My name is Egbule Solomon, 3MTT cohort 3 fellow,origin of Imo State but I based 
    <li>Playing table tennis</li>
    <li>Plaaying musical instrument especially the bass guitar</li>
    <li>Reading And watching movies</li>
-   <li>Travelling and learning peoples cultures</li>
+   <li>Travelling and learning peoples cultures</li> <br>
 
 <footer>
-           <p>soloegbule@outlook.com</p>
-           <p>@eso4peace on Tik Talk</p>
-           <p> @egbulesolomon on Instagram</p>
-          <p> @EgbuleSolo42888 on X</p>
+           <p>soloegbule@outlook.com, @eso4peace,@egbulesolomon,@EgbuleSolo42888</p>
+          
 </footer>
 </body>
 </html>
