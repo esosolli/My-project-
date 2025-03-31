@@ -41,7 +41,7 @@ My name is Egbule Solomon, 3MTT cohort 3 fellow,origin of Imo State but I based 
 </ol>
 
 <footer>
-      <h4>soloegbule@outlook.com; @egbulesolomon; eso4peace</h4>
+      <p>soloegbule@outlook.com,@egbulesolomon; @eso4peace</p>
     </footer>
-</body>
+  </body>
 </html>
