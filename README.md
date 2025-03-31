@@ -5,8 +5,9 @@
     <title>My profile page</title>
 </head>
 <body>
-    <h2>Egbule Solomon's profile page</h2>
-   <header>
+     <header>
+<h2>Egbule Solomon's profile page</h2>
+  </header>
            <nav>
             <section id ="Newsletter">
                 <a href="#">About Me</a>
@@ -14,7 +15,7 @@
                <a href="#">Contact</a>
            </section>
        </nav>   
-   </header>
+   
    <p>
        <img src="Solomon.jpeg" alt="this is my picture" height ="200">
        My name is Egbule Solomon, 3MTT cohort 3 fellow, I'm glad to be part of the selected student. This training is going to go along way in reshaping my carrier, all thanks to the 3MTT Team for making this a reality and i promise to utilize this opportunity, once again i say thank you great Teams.
