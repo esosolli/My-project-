@@ -9,13 +9,13 @@
 <header>
       <div class="container">
         <div id="branding">
-          <h1><span class="highlight">Acme</span> Web Design</h1>
+          <h1> My Profile page </h1>
         </div>
         <nav>
           <ul>
-            <li><a href="index.html">Home</a></li>
-            <li class="current"><a href="about.html">About</a></li>
-            <li><a href="services.html">Services</a></li>
+            <li><a href="#">About</a></li>
+            <li class="current"><a       href="#">Hobbies</a></li>
+            <li><a href="#">Contact</a></li>
           </ul>
         </nav>
       </div>
