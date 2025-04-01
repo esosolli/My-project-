@@ -39,7 +39,6 @@ My name is Egbule Solomon, 3MTT cohort 3 fellow,origin of Imo State but I based 
    <li>Reading And watching movies</li>
    <li>Travelling and learning peoples cultures</li> <br>
 </ol>
-
 <footer>
       <p>soloegbule@outlook.com,@egbulesolomon; @eso4peace</p>
     </footer>
