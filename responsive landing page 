@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Home for professional web design">
+	  <meta name="keywords" content="Eso design Home for web design">
+  	<meta name="author" content="Brad Traversy">
+    <title>Eso Web Design</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+   
+       <header>
+      <div class="container">
+        <div id="Practice">
+          <h1>Eso Design </h1>
+        </div>
+        <nav>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Service</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header> 
+    <header>
+      <div class="box">
+          <img src="web.png" height= 200px>
+          <h1>What We Do</h1>
+            <p>We help businesses grow by crafting amazing web experience, writing and maintaining code using various programming languages and frameworks,
+creating or implementing website layouts and user interfaces and ensuring the website functions correctly and performs optimally. </p>
+        </div>
+      </header>
+      
+      <section id="newsletter">
+      <div class="container">
+        <h1>Subscribe To Our Newsletter</h1>
+        <form>
+          <input type="email" placeholder="Enter Email..." required>
+          <button type="submit" class="button_1">Subscribe</button>
+        </form>
+      </div>
+    </section>
+    </header>
+
+<section id="boxes">,       <div class="container">
+        <div class="box">
+          <img src="html.png">
+          <h3>HTML5 Markup</h3>
+          <p>With the power of HTML ensuring a befitting building block is our priority, we got uour back</p>
+        </div>
+        <div class="box">
+          <img src="css.png">
+          <h3>CSS3 Styling</h3>
+          <p>We will make your website look amazing and captivating with the help of Css styling </p>
+           <div class="container">
+        <div class="box">
+          <img src="js.png">
+         <h3>JavaScript</h3>
+          <p>With JavaScript our team will ensure that your website is going to be responsive and user friendly</p>
+        </div>
+
+    <footer>
+        <p>
+            <h3>Click for more </h3>
+        </p>
+        <ul>
+        <li><a href="https://www.facebook.com/share/1YTsfCT1a5/">Facebook</a></li>   
+        </a>
+        </ul>
+        </footer>
+        <footer>
+      <p><h1>Eso Deisgn, Copyright &copy; 2025</p></h1>
+    </footer>
+  </body>
+</html>
