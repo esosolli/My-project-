@@ -50,7 +50,7 @@ onclick="display.value=eval(display.value)"class="equal">
         </div>
         </form>
     </div>
-    <footer>Assignment by <strong >3MTT</strong>. Coded by <strong>FE/23/42848587</strong>
+    <footer> Assignment by <strong >3MTT</strong>. Coded by <strong>FE/23/42848587</strong>
     </footer>
    </body>
    </html>
