@@ -7,14 +7,13 @@
     <title>Mini project</title>
     <link rel="stylesheet" href="style.css">
     <script src="index.js"></script>
-<link rel ="JavaScript" href="index.js">
-
-
+    <link rel="JavaScript" href="index.js"
+   
 </head>
 <body>
     <h1>Calculator App</h1>
     <div class="container">
-
+        
         <form action="">
         <div class="screen">
             <input type="text" name="display" id="display">
@@ -50,18 +49,20 @@ onclick="display.value=eval(display.value)"class="equal">
         </div>
         </form>
     </div>
-    <footer> Assignment by <strong >3MTT</strong>. Coded by <strong>FE/23/42848587</strong>
+    <footer>Assignment by <strong >3MTT</strong>. Coded by <strong>FE/23/42848587</strong>
     </footer>
    </body>
    </html>
 
 
 
-CSS Styling 
+
+CSS Styling
+
 
 body {
     width: 100%;
-    background-color: pink;
+    background-color:#5d5d5d7 ;
     font-weight: 700;
     font-family: 'lucia sans lucia sans regular;
     text-align: center;
@@ -75,18 +76,18 @@ body {
     justify-content: center;
     text-align: center;
     border-radius: 7%;
-    background-color: green;
+    background-color: white;
     padding: 6%;
-    box-shadow: white;
+    box-shadow: grey;
     border: 0px;
 }
 #display {
-
+    
     width: 300px;
     margin: 15px 0px;
     border-radius: 8%;
     border: 0px;
-    background-color: #9ff2bfb4);
+    background-color: #8098ff;
     font-size: 50px;
     font-weight: 700;
     font-family: 'lucia sans lucia sans regular;
@@ -101,10 +102,10 @@ body {
     font-weight: 700;
     font-family: 'lucia sans lucia sans regular;
     color: aquamarine;
-    background-color: white;
+    background-color: #8098ff;
     border-radius: 20%;
     border: 0px;
-
+   
 }
 }
 form .screen{
@@ -126,6 +127,7 @@ footer{
         margin: 10% auto;
     }
 }
+ 
 
 
 
